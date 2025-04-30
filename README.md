@@ -20,3 +20,6 @@ This project aims to explore, analyse, and visualize aggregated transaction data
 <p>git clone https://github.com/Gowthamguru/Phonepeapp.git</p>
 <h1>Run the App</h1>
 <p>streamlit run home.py</p>
+
+<h1>Conclusion</h1>
+ 	This project provides a comprehensive view of UPI transaction behaviour in India using PhonePe Pulse data. It enables users to explore trends interactively and supports data-driven decision-making for fintech businesses, marketers, and policy planners.
