@@ -1,0 +1,6 @@
+pandas~=2.2.3
+python-dotenv~=1.1.0
+mysql-connector-python~=9.3.0
+sqlalchemy~=2.0.40
+GitPython~=3.1.44
+streamlit~=1.44.1
